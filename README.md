@@ -1,6 +1,6 @@
 ## About the project
 
-The app is a video streaming service 'clone', simulating an application that could be used to watch selected movies. It utilises a pre-trained LLM model provided through Hugging face, available at microsoft/DialoGPT-medium, to provide an AI chatbot interface that can be perform tasks such as suggesting movies or providing additional information about a genre. The app is built primarily using React, Node.js and Python, and uses a MongoDB database to provide log-in functionality.
+The app is a video streaming service 'clone', simulating an application that could be used to watch selected movies. It utilises a pre-trained LLM model provided through Hugging Face, available at microsoft/DialoGPT-medium, to provide an AI chatbot interface that can be perform tasks such as suggesting movies or providing additional information about a genre. The app is built primarily using React, Node.js and Python, and uses a MongoDB database to provide log-in functionality.
 
 ## Getting Started
 
