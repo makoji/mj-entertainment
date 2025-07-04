@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## About the project
+
+The app is a video streaming service 'clone', simulating an application that could be used to watch selected movies. It utilises a pre-trained LLM model provided through Hugging face, available at microsoft/DialoGPT-medium, to provide an AI chatbot interface that can be perform tasks such as suggesting movies or providing additional information about a genre. The app is built primarily using React, Node.js and Python, and uses a MongoDB database to provide log-in functionality.
 
 ## Getting Started
 
@@ -25,9 +27,5 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## About the project
-
-The app is a video streaming service 'clone', simulating an application that could be used to watch selected movies. It utilises a pre-trained LLM model provided through Hugging face, available at microsoft/DialoGPT-medium, to provide an AI chatbot interface that can be perform tasks such as suggesting movies or providing additional information about a genre. The app is built primarily using React, Node.js and Python, and uses a MongoDB database to provide log-in functionality.
-
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
